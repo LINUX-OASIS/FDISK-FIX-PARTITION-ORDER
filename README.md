@@ -55,12 +55,12 @@ If missing, the script will attempt to install them via `sudo apt-get`. You may 
 
 2. **Make the script executable:**
     ```bash
-    chmod +x custom-FDISK-FIX-PARTITION-ORDER.sh
+    chmod +x custom-FDISK-FIX-PARTITION-ORDER
     ```
 
 3. **Run the script:**
     ```bash
-    ./custom-FDISK-FIX-PARTITION-ORDER.sh
+    ./custom-FDISK-FIX-PARTITION-ORDER
     ```
 
 4. Follow the on-screen instructions: choose your device and confirm at the final prompt.
